@@ -1,2 +1,0 @@
-# Valenciano
-Curso valenciano EOI
