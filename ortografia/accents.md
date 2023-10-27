@@ -23,5 +23,39 @@ autor:
 |   plana |   diferents se les agudes |   terratrèmol, ibèric, bolígraf.|    
 |   exdruixola |  s'accentuen sempre |    Dècima, llàgrima, història  |  
 
+### <u>L'accent diacrític</u>
+
+
+
+|   Amb accent|    sense accent|
+|----|----|
+| Be: nom de la lletra / cria de l'ovella|       Bé: adverbi de manera / riquesa|
+|Bota, botes: present del verb botar. Calçat.	|Bóta, bótes: recipient per al vi.|
+
+
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
 
 
