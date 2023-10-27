@@ -32,7 +32,7 @@ autor:
 | Be: nom de la lletra / cria de l'ovella|       Bé: adverbi de manera / riquesa|
 |Bota, botes: present del verb botar. Calçat.	|Bóta, bótes: recipient per al vi.|
 
-![some discription](/infografia.pd  "some discription")
+![some discription](/storage/emulated/0/Infografia.pdf)
 |    |    |
 |    |    |
 |    |    |
