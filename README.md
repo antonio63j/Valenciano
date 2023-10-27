@@ -10,6 +10,7 @@ Comprarem el pa
  Les valencianes són maques
 test  
 Guanyador
+Com es diu?
 
 Com et dius?
 Quants anys tens?
