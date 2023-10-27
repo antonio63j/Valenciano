@@ -17,4 +17,10 @@ Accent tancat o agut **′**
 **I** y **U** sempre porta accent tancat
 
 
+|    |    |    |    |
+|----|----|----|----|
+|    |    |    |    |
+|    |    |    |    |
+|    |    |    |    |
+|    |    |    |    |
 
