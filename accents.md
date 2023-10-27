@@ -1,5 +1,5 @@
 ---
-title: accents
+tittle: accents
 tag:
 autor:
 ---
