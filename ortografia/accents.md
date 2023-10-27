@@ -60,7 +60,7 @@ autor:
 |    |    |
 |    |    |
 
-[Accent](https://www.google.com/imgres?imgurl=http%3A%2F%2Fofficialpress.es%2Fwp-content%  )
+[Accent](   )
  
 
 
