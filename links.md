@@ -1,6 +1,6 @@
 ---
-title = links
+title: links
 tag:
-autor:
+autor: antonio
 ---
 [practivaValenciano](https://www.practicavalenciano.es/es/)

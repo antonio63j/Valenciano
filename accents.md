@@ -1,5 +1,5 @@
 ---
-title = acentos
+title: accents
 tag:
 autor:
 ---
