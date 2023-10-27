@@ -1,6 +1,6 @@
 ---
 title: accents
-tag: ortografia
+tag: [ortografia accents]
 autor:
 ---
 
