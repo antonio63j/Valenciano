@@ -10,7 +10,11 @@ autor:
 | plana      |  `| `|   ′ |′   |   ` |
 | exdruixola|  `| ` |   ′ |    `|  ′  |
 
-Accent obert o greu `
-Accent tancat o agut ′
+Accent obert o greu **`**
+Accent tancat o agut **′**
+
+**A** sempre porta accent obert
+**I** y **U** sempre porta accent tancat
+
 
 
