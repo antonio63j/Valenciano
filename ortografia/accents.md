@@ -60,7 +60,7 @@ autor:
 |    |    |
 |    |    |
 
-[Accent](   )
+[Accent]( )
  
 
 
