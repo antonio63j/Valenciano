@@ -25,7 +25,7 @@ autor:
 
 ### <u>L'accent diacrític</u>
 
-> *Duda: ¿Ha quedado en 15 casos como en el catalán?*
+> *Duda: ¿Ha quedado en 15 casos como en el catalán?*lo
 
 ![Gràfic amb els accents diacritics](http://officialpress.es/wp-content/uploads/2018/06/acntos.jpg)
 
@@ -36,6 +36,8 @@ autor:
 
 ### **<u>Bibliografia</u>**
 https://www.practicavalenciano.es/es/ortografia/accent-diacritic/
+
+https://www.llenguavalenciana.com/
 
  
  
