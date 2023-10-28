@@ -38,4 +38,6 @@ dòna i dònes (substantiu: la dòna, les dònes) dona i dones (verp donar)
 és (verp ser: ell és ric) es (pronom: es parla rus) 
 fòc i fòcs (combustió) foc i focs (de llum elèctrica)
  
+ 
+ Mdflocal
  https://www.llenguavalenciana.com/
