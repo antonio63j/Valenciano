@@ -34,13 +34,15 @@ autor:
 | Be: nom de la lletra / cria de l'ovella|       Bé: adverbi de manera / riquesa|
 |Bota, botes: present del verb botar. Calçat.	|Bóta, bótes: recipient per al vi.|
 
+
+
 ### **<u>Bibliografia</u>**
 https://www.practicavalenciano.es/es/ortografia/accent-diacritic/
 
 https://www.llenguavalenciana.com/
 
  
- 
+Pastel
  
 
 
