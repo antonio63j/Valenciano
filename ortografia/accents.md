@@ -25,42 +25,21 @@ autor:
 
 ### <u>L'accent diacrític</u>
 
-[link](https://officialpress.es/acentos-diacriticos-en-valenciano/amp/)
+> *Duda: ¿Ha quedado en 15 casos como en el catalán?*
 
-
-![some discription](https://officialpress.es/wp-content/uploads/2018/06/acntos-1-1000x600.jpg )
+![Gràfic amb els accents diacritics](http://officialpress.es/wp-content/uploads/2018/06/acntos.jpg)
 
 |   Amb accent|    sense accent|
 |----|----|
 | Be: nom de la lletra / cria de l'ovella|       Bé: adverbi de manera / riquesa|
 |Bota, botes: present del verb botar. Calçat.	|Bóta, bótes: recipient per al vi.|
 
-|    |    |
-|    |    |
-|    |    |
-|    |    |
-|    |    |
-|    |    |
-|    |    |
-|    |    |
-|    |    |
-|    |    |
-|    |    |
-|    |    |
-|    |    |
-|    |    |
-|    |    |
-|    |    |
-|    |    |
-|    |    |
-|    |    |
-|    |    |
-|    |    |
-|    |    |
-|    |    |
-|    |    |
+### **<u>Bibliografia</u>**
+https://www.practicavalenciano.es/es/ortografia/accent-diacritic/
 
-[Accent](
- https://images.app.goo.gl/Th5P6PrnpAP8EqGx6
+ 
+ 
+ 
+
 
 
