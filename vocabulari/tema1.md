@@ -7,6 +7,8 @@ Cadira - Silla
 Finestra - ventana
 Guix - tiza
 Taula -Mesa
-Full - Hoja
+FFull - Hoja
 Lletrejar - Deletrear
-Haga
+Hagañ
+Diferencia
+Cuál 
