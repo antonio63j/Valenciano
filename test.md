@@ -34,7 +34,7 @@ còure (verp) coure (metal)
 dèu (10) deu (deïtat; verp deure: ell deu 
 diners) 
 dò (gràcia, be) do (nota musical) 
-dòna i dònes (substantiu: la dòna, les dònes) dona i dones (verp donar) 
+dòna i dònes (substantiu: la dòna, l dees dònes) dona i dones (verp donar) 
 és (verp ser: ell és ric) es (pronom: es parla rus) 
 fòc i fòcs (combustió) foc i focs (de llum elèctrica)
  
