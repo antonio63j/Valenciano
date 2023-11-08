@@ -6,6 +6,8 @@ autor: antonio
 
 ![](/drawing-2023-11-08.png)
 
+[aqui](https://digistorage.net/tliljsxw)
+
 : nombre de letra. Cria de la oveja	Bé: adverbio de manera / riqueza.
 Bota, botes: presente del verbo botar. Calzado.	Bóta, bótes: recipiente para el vino.
 Deu, deus: número 10. Presente del verbo dar.	Déu, déus: divinidad o ser supremo.
@@ -117,3 +119,9 @@ Hi ha mots que, per influència del castellà o per altres motius, es pronuncien
 | **Mots esdrúixols** | **antropofàgia (i altres en -**_ **fàgia** _**), Àrtemis, Àtila, aurèola (i rubèola, etc.), Bàssora, Bètulo, Cíbele, Dàmocles, diòptria, èczema, elèctrode, endòspora, Èsquines, Hèlsinki, Hèracles, Himàlaia, isòbara, Ítaca, Làscaris, màrqueting, Mègara, Míkonos, olimpíada, Òtranto, Pèricles, període, pneumònia, Praxíteles, Prosèrpina, quàdriceps, Sàhara, Samòsata, Sennàquerib, Suíntila, Tàrraco, Úlfila, Úmbria, Vítiza.** |
 | --- | --- |
  
+
+# You seem to be using an unsupported browser.
+
+Old browsers can put your security at risk, are slow and don't work with DIGI storage application. To access DIGI storage, you'll need to update to a modern browser.
+
+[Upgrade](https://www.whatsmybrowser.org/)
