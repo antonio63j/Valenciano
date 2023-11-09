@@ -3,10 +3,16 @@ title: test
 tag:
 autor: antonio
 ---
+<Img src=https://drive.google.com/file/d/1Ev_ZQle5OvHXmJGxJdMlDK3suXO8CdGY/view?usp=drivesdk>
 
-https://drive.google.com/file/d/1Ev_ZQle5OvHXmJGxJdMlDK3suXO8CdGY/view?usp=drivesdk
+![IMG20231106071204](/IMG20231106071204.jpg)
 
-![](/drawing-2023-11-08.png)
+
+
+[Factura](https://drive.google.com/file/d/1Ev_ZQle5OvHXmJGxJdMlDK3suXO8CdGY/view?usp=drivesdk)
+
+
+
 
 [aqui](https://digistorage.net/tliljsxw)
 
