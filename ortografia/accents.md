@@ -25,7 +25,7 @@ autor:
 
 ### <u>L'accent diacrític</u>
 
-> *Han quedado 15 casos como en el catalán*
+> *Han quedado 15 casos como en el catalán*de
 
 ![Gràfic amb els accents diacritics](http://officialpress.es/wp-content/uploads/2018/06/acntos.jpg)
 
