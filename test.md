@@ -3,9 +3,9 @@ title: test
 tag:
 autor: antonio
 ---
-<Img src=https://drive.google.com/file/d/1Ev_ZQle5OvHXmJGxJdMlDK3suXO8CdGY/view?usp=drivesdk>
+[Go](https://drive.google.com/file/d/1Ev_ZQle5OvHXmJGxJdMlDK3suXO8CdGY/view?usp=drivesdk)
 
-![IMG20231106071204](/IMG20231106071204.jpg)
+[](https://drive.google.com/file/d/1Ev_ZQle5OvHXmJGxJdMlDK3suXO8CdGY/view?usp=drivesdk)
 
 
 
