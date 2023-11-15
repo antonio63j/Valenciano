@@ -36,7 +36,7 @@ autor:
 
 
 
-### **<u>Bibliografia</u>**
+### <u>Bibliografia</u>
 https://www.practicavalenciano.es/es/ortografia/accent-diacritic/
 
 https://www.llenguavalenciana.com/
